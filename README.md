@@ -70,14 +70,20 @@ Feel free to connect or reach out if you’d like to collaborate or share insigh
 ---
 
 ## 📊 GitHub Statistics
+
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalsaj&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="Amal Saji's GitHub Stats" width="400px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalsaj&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amalsaj&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="Amal Saji's GitHub Stats" width="400px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
 
-## 🔥 GitHub Streak
+### 🌟 Top Languages
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalsaj&theme=gotham&hide_border=false" alt="GitHub Streak" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalsaj&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</p>
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalsaj&theme=gotham&hide_border=false" alt="GitHub Streak" width="400px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
 
 
@@ -86,5 +92,5 @@ Feel free to connect or reach out if you’d like to collaborate or share insigh
 ## 🔝 Top Contributions
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=amalsaj&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" style="width:400px; border-radius: 20px;" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=amalsaj&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" style="width:400px; border-radius: 10px;" />
 </div>
