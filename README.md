@@ -69,14 +69,18 @@ Feel free to connect or reach out if you’d like to collaborate or share insigh
 
 ---
 
-
 ## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amalsaj&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="Amal Saji's GitHub Stats" width="400px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalsaj&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"width="400px" />
+</p>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalsaj&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="Amal Saji's GitHub Stats" style=" border-radius: 20px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalsaj&theme=gotham&hide_border=false" alt="GitHub Streak" style=" border-radius: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalsaj&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style=border-radius: 20px;" />
-</div>
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalsaj&theme=gotham&hide_border=false" alt="GitHub Streak" width="400px" />
+</p>
+
+
 ---
 
 ## 🔝 Top Contributions
